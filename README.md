@@ -1,2 +1,1 @@
 # Dekstop-Cleanup
-pyhton script
